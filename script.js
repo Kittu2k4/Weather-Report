@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function () {
         const options = {
             method: 'GET',
             headers: {
-                'X-RapidAPI-Key': 'e509ac7b4bmshc512aba8fe7baa0p168645jsn95920a403e77',
+                'X-RapidAPI-Key': '6rJKoMdrfS1iDkZ2711ulQ==p2dUc2mYrCecjv0B',
                 'X-RapidAPI-Host': 'weather-by-api-ninjas.p.rapidapi.com'
             }
         };
